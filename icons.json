@@ -1,30 +1,237 @@
 {
   "iconDefinitions": {
-    "_default_folder": {
+    "_bin_closed": {
       "iconPath": "./images/stardewvalley/Bin_Closed.png"
     },
-    "_default_folder_expanded": {
+    "_bin_opened": {
       "iconPath": "./images/stardewvalley/Bin_Opened.png"
     },
-    "_default_icon": {
-      "iconPath": "./images/botas/strawberry.webp"
+    "_blue_chicken": {
+      "iconPath": "./images/stardewvalley/Blue_Chicken.png"
     },
-    "_empty": {
-      "iconPath": "./images/botas/empty.svg"
+    "_brown_chicken": {
+      "iconPath": "./images/stardewvalley/Brown_Chicken.png"
     },
-    "_flag": {
-      "iconPath": "images/stardewvalley/Calendar_Flag_Anim.gif"
+    "_calendar_flag_anim": {
+      "iconPath": "./images/stardewvalley/Calendar_Flag_Anim.gif"
+    },
+    "_cat": {
+      "iconPath": "./images/stardewvalley/Cat.png"
+    },
+    "_cat_2": {
+      "iconPath": "./images/stardewvalley/Cat_2.png"
+    },
+    "_cat_3": {
+      "iconPath": "./images/stardewvalley/Cat_3.png"
+    },
+    "_catalogue": {
+      "iconPath": "./images/stardewvalley/Catalogue.png"
+    },
+    "_coffee": {
+      "iconPath": "./images/stardewvalley/Coffee.png"
+    },
+    "_crow": {
+      "iconPath": "./images/stardewvalley/Crow.png"
+    },
+    "_deluxe_scarecrow": {
+      "iconPath": "./images/stardewvalley/Deluxe_Scarecrow.png"
+    },
+    "_deluxe_scarecrow_re": {
+      "iconPath": "./images/stardewvalley/Deluxe_Scarecrow_Re.png"
+    },
+    "_diamond": {
+      "iconPath": "./images/stardewvalley/Diamond.png"
+    },
+    "_dog": {
+      "iconPath": "./images/stardewvalley/Dog.gif"
+    },
+    "_dog_1": {
+      "iconPath": "./images/stardewvalley/Dog_1.png"
+    },
+    "_dog_2": {
+      "iconPath": "./images/stardewvalley/Dog_2.png"
+    },
+    "_duck_feather": {
+      "iconPath": "./images/stardewvalley/Duck_Feather.png"
+    },
+    "_dwarf_gadget": {
+      "iconPath": "./images/stardewvalley/Dwarf_Gadget.png"
+    },
+    "_dwarf_scroll_ii": {
+      "iconPath": "./images/stardewvalley/Dwarf_Scroll_II.png"
+    },
+    "_dwarf_scroll_iii": {
+      "iconPath": "./images/stardewvalley/Dwarf_Scroll_III.png"
+    },
+    "_dwarf_scroll_iv": {
+      "iconPath": "./images/stardewvalley/Dwarf_Scroll_IV.png"
+    },
+    "_dwarvish_translation_guide": {
+      "iconPath": "./images/stardewvalley/Dwarvish_Translation_Guide.png"
+    },
+    "_farm_computer": {
+      "iconPath": "./images/stardewvalley/Farm_Computer.png"
+    },
+    "_galaxy_soul": {
+      "iconPath": "./images/stardewvalley/Galaxy_Soul.png"
+    },
+    "_garbage_can": {
+      "iconPath": "./images/stardewvalley/Garbage_Can.png"
+    },
+    "_golden_chicken": {
+      "iconPath": "./images/stardewvalley/Golden_Chicken.png"
+    },
+    "_golden_key": {
+      "iconPath": "./images/stardewvalley/Golden_Key.png"
+    },
+    "_golden_relic": {
+      "iconPath": "./images/stardewvalley/Golden_Relic.png"
+    },
+    "_iridium_axe": {
+      "iconPath": "./images/stardewvalley/Iridium_Axe.png"
+    },
+    "_iridium_bat_anim": {
+      "iconPath": "./images/stardewvalley/Iridium_Bat_Anim.gif"
+    },
+    "_iridium_sprinkler": {
+      "iconPath": "./images/stardewvalley/Iridium_Sprinkler.png"
+    },
+    "_junimo_hut": {
+      "iconPath": "./images/stardewvalley/Junimo_Hut.png"
+    },
+    "_junimo_kart_arcade_system": {
+      "iconPath": "./images/stardewvalley/Junimo_Kart_Arcade_System.png"
+    },
+    "_lost_book": {
+      "iconPath": "./images/stardewvalley/Lost_Book.png"
+    },
+    "_magic_ink": {
+      "iconPath": "./images/stardewvalley/Magic_Ink.png"
+    },
+    "_magnifying_glass": {
+      "iconPath": "./images/stardewvalley/Magnifying_Glass.png"
+    },
+    "_mail": {
+      "iconPath": "./images/stardewvalley/Mail.png"
     },
     "_mango": {
       "iconPath": "./images/botas/mango.svg"
+    },
+    "_midnight_squid": {
+      "iconPath": "./images/stardewvalley/Midnight_Squid.png"
+    },
+    "_mini-shipping_bin": {
+      "iconPath": "./images/stardewvalley/Mini-Shipping_Bin.png"
+    },
+    "_mystic_stone": {
+      "iconPath": "./images/stardewvalley/Mystic_Stone.png"
+    },
+    "_pierre's_missing_stocklist": {
+      "iconPath": "./images/stardewvalley/Pierre's_Missing_Stocklist.png"
+    },
+    "_prismatic_shard": {
+      "iconPath": "./images/stardewvalley/Prismatic_Shard.png"
+    },
+    "_prismatic_slime": {
+      "iconPath": "./images/stardewvalley/Prismatic_Slime.gif"
+    },
+    "_quests_icon": {
+      "iconPath": "./images/stardewvalley/Quests_Icon.png"
+    },
+    "_rare_disc": {
+      "iconPath": "./images/stardewvalley/Rare_Disc.png"
+    },
+    "_rusty_key": {
+      "iconPath": "./images/stardewvalley/Rusty_Key.png"
+    },
+    "_secret_note": {
+      "iconPath": "./images/stardewvalley/Secret_Note.png"
+    },
+    "_shipping_bin_anim": {
+      "iconPath": "./images/stardewvalley/Shipping_Bin_Anim.gif"
+    },
+    "_snow_yam": {
+      "iconPath": "./images/stardewvalley/Snow_Yam.png"
+    },
+    "_squid": {
+      "iconPath": "./images/stardewvalley/Squid.png"
+    },
+    "_star_shards": {
+      "iconPath": "./images/stardewvalley/Star_Shards.png"
+    },
+    "_stardrop": {
+      "iconPath": "./images/stardewvalley/Stardrop.png"
+    },
+    "_starfruit": {
+      "iconPath": "./images/stardewvalley/Starfruit.png"
+    },
+    "_statusfestival": {
+      "iconPath": "./images/stardewvalley/StatusFestival.png"
+    },
+    "_statussnow": {
+      "iconPath": "./images/stardewvalley/StatusSnow.png"
+    },
+    "_statusstorm": {
+      "iconPath": "./images/stardewvalley/StatusStorm.png"
+    },
+    "_statuswedding": {
+      "iconPath": "./images/stardewvalley/StatusWedding.png"
+    },
+    "_statuswindfall": {
+      "iconPath": "./images/stardewvalley/StatusWindFall.png"
+    },
+    "_statuswindspring": {
+      "iconPath": "./images/stardewvalley/StatusWindSpring.png"
+    },
+    "_stone_chest": {
+      "iconPath": "./images/stardewvalley/Stone_Chest.png"
+    },
+    "_stone_owl_random": {
+      "iconPath": "./images/stardewvalley/Stone_Owl_Random.png"
+    },
+    "_stormanimated": {
+      "iconPath": "./images/stardewvalley/StormAnimated.gif"
+    },
+    "_strawberry": {
+      "iconPath": "./images/botas/strawberry.webp"
+    },
+    "_summer": {
+      "iconPath": "./images/stardewvalley/Summer.png"
+    },
+    "_sunanimated": {
+      "iconPath": "./images/stardewvalley/SunAnimated.gif"
+    },
+    "_trash_can_iridium": {
+      "iconPath": "./images/stardewvalley/Trash_Can_Iridium.png"
+    },
+    "_treasure_chest": {
+      "iconPath": "./images/stardewvalley/Treasure_Chest.png"
+    },
+    "_void_chicken": {
+      "iconPath": "./images/stardewvalley/Void_Chicken.png"
+    },
+    "_warp_totem_beach": {
+      "iconPath": "./images/stardewvalley/Warp_Totem_Beach.png"
+    },
+    "_warp_totem_farm": {
+      "iconPath": "./images/stardewvalley/Warp_Totem_Farm.png"
+    },
+    "_warp_totem_mountains": {
+      "iconPath": "./images/stardewvalley/Warp_Totem_Mountains.png"
+    },
+    "_wheel": {
+      "iconPath": "./images/stardewvalley/Wheel.png"
+    },
+    "_white_chicken": {
+      "iconPath": "./images/stardewvalley/White_Chicken.png"
     },
     "_wtf": {
       "iconPath": "./images/botas/wtf.png"
     }
   },
-  "file": "_default_icon",
-  "folder": "_default_folder",
-  "folderExpanded": "_default_folder_expanded",
+  "file": "_strawberry",
+  "folder": "_bin_closed",
+  "folderExpanded": "_bin_opened",
   "folderNames": {
     "api": "_empty",
     "app": "_empty",
