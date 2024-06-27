@@ -1,0 +1,25 @@
+{
+  "name": "the-botas-icon-theme",
+  "displayName": "the botas icon theme",
+  "description": "...",
+  "publisher": "arerorero - botas",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "type": "module",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "the-botas-icon-theme",
+        "label": "The Botas - icon theme",
+        "path": "./icons.json"
+      }
+    ]
+  },
+  "dependencies": {
+  }
+}
