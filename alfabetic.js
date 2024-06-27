@@ -20,7 +20,7 @@ async function alfabetically(){
     let icons = await fs.readFile('icons.json', 'utf-8');
     icons = JSON.parse(icons);
 
-    const array = ["fileExtensions", "iconDefinitions", "folderNames", "fileNames"]
+    const array = ["fileExtensions", "iconDefinitions", "folderNames", "folderNamesExpanded", "fileNames"]
     array.forEach(element => {
         let name = icons[element]
         name = sortJsonAlfabetically(name)
