@@ -69,6 +69,9 @@
     "_dwarvish_translation_guide": {
       "iconPath": "./images/stardewvalley/Dwarvish_Translation_Guide.png"
     },
+    "_empty": {
+      "iconPath": "./images/botas/empty.png"
+    },
     "_farm_computer": {
       "iconPath": "./images/stardewvalley/Farm_Computer.png"
     },
@@ -307,6 +310,7 @@
     "AUTHORS.txt": "_empty",
     "CHANGELOG.md": "_empty",
     "CHANGELOG.txt": "_empty",
+    "config.ru": "_empty",
     "CONTRIBUTING": "_empty",
     "CONTRIBUTING.md": "_empty",
     "CONTRIBUTING.txt": "_empty",
@@ -315,10 +319,6 @@
     "LICENSE": "_empty",
     "LICENSE.md": "_empty",
     "LICENSE.txt": "_empty",
-    "README.md": "_empty",
-    "README.txt": "_empty",
-    "Rakefile": "_empty",
-    "config.ru": "_empty",
     "package-lock.json": "_empty",
     "package-lock.yaml": "_empty",
     "package-lock.yml": "_empty",
@@ -326,9 +326,10 @@
     "pnpm-lock.json": "_empty",
     "pnpm-lock.yaml": "_empty",
     "pnpm-lock.yml": "_empty",
-    "test": "_empty",
+    "Rakefile": "_empty",
+    "README.md": "_empty",
+    "README.txt": "_empty",
     "tsconfig.json": "_empty",
-    "yarn-error.log": "_empty",
     "yarn.lock": "_empty"
   },
   "fileExtensions": {
