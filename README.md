@@ -1,1 +1,1 @@
-nothing here :(
+This icon theme is under development, currently i'm working in making it cool on ruby on rails and vue.js, further on i'ma expand it to other languages and frameworks, if any of u guys that stumble across this icon package wanna help me build it just join me on my github @arerorero or send me a friend request on discord @arerorero
