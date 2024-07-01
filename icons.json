@@ -6,11 +6,17 @@
     "_bin_opened": {
       "iconPath": "./images/stardewvalley/Bin_Opened.png"
     },
+    "_blobfish_mask": {
+      "iconPath": "./images/stardewvalley/Blobfish_Mask.png"
+    },
     "_blue_chicken": {
       "iconPath": "./images/stardewvalley/Blue_Chicken.png"
     },
     "_brown_chicken": {
       "iconPath": "./images/stardewvalley/Brown_Chicken.png"
+    },
+    "_cactus_fruit": {
+      "iconPath": "./images/stardewvalley/Cactus_Fruit.png"
     },
     "_calendar_flag_anim": {
       "iconPath": "./images/stardewvalley/Calendar_Flag_Anim.gif"
@@ -30,8 +36,17 @@
     "_coffee": {
       "iconPath": "./images/stardewvalley/Coffee.png"
     },
+    "_common_mushroom": {
+      "iconPath": "./images/stardewvalley/Common_Mushroom.png"
+    },
+    "_cowgal_hat": {
+      "iconPath": "./images/stardewvalley/Cowgal_Hat.png"
+    },
     "_crow": {
       "iconPath": "./images/stardewvalley/Crow.png"
+    },
+    "_dark_bookcase": {
+      "iconPath": "./images/stardewvalley/Dark_Bookcase.png"
     },
     "_deluxe_scarecrow": {
       "iconPath": "./images/stardewvalley/Deluxe_Scarecrow.png"
@@ -108,8 +123,14 @@
     "_lost_book": {
       "iconPath": "./images/stardewvalley/Lost_Book.png"
     },
+    "_lucky_bow": {
+      "iconPath": "./images/stardewvalley/Lucky_Bow.png"
+    },
     "_magic_ink": {
       "iconPath": "./images/stardewvalley/Magic_Ink.png"
+    },
+    "_magma_cap": {
+      "iconPath": "./images/stardewvalley/Magma_Cap.png"
     },
     "_magnifying_glass": {
       "iconPath": "./images/stardewvalley/Magnifying_Glass.png"
@@ -132,17 +153,35 @@
     "_pierre's_missing_stocklist": {
       "iconPath": "./images/stardewvalley/Pierre's_Missing_Stocklist.png"
     },
+    "_polka_bow": {
+      "iconPath": "./images/stardewvalley/Polka_Bow.png"
+    },
     "_prismatic_shard": {
       "iconPath": "./images/stardewvalley/Prismatic_Shard.png"
     },
     "_prismatic_slime": {
       "iconPath": "./images/stardewvalley/Prismatic_Slime.gif"
     },
+    "_purple_mushroom": {
+      "iconPath": "./images/stardewvalley/Purple_Mushroom.png"
+    },
+    "_qi_gem": {
+      "iconPath": "./images/stardewvalley/Qi_Gem.png"
+    },
     "_quests_icon": {
       "iconPath": "./images/stardewvalley/Quests_Icon.png"
     },
     "_rare_disc": {
       "iconPath": "./images/stardewvalley/Rare_Disc.png"
+    },
+    "_red_mushroom": {
+      "iconPath": "./images/stardewvalley/Red_Mushroom.png"
+    },
+    "_ruby": {
+      "iconPath": "./images/stardewvalley/Ruby.png"
+    },
+    "_ruby_node": {
+      "iconPath": "./images/stardewvalley/Ruby_Node.png"
     },
     "_rusty_key": {
       "iconPath": "./images/stardewvalley/Rusty_Key.png"
@@ -152,6 +191,12 @@
     },
     "_shipping_bin_anim": {
       "iconPath": "./images/stardewvalley/Shipping_Bin_Anim.gif"
+    },
+    "_skeleton_anim": {
+      "iconPath": "./images/stardewvalley/Skeleton_Anim.gif"
+    },
+    "_skull_key": {
+      "iconPath": "./images/stardewvalley/Skull_Key.png"
     },
     "_snow_yam": {
       "iconPath": "./images/stardewvalley/Snow_Yam.png"
@@ -195,9 +240,6 @@
     "_stormanimated": {
       "iconPath": "./images/stardewvalley/StormAnimated.gif"
     },
-    "_strawberry": {
-      "iconPath": "./images/botas/strawberry.webp"
-    },
     "_summer": {
       "iconPath": "./images/stardewvalley/Summer.png"
     },
@@ -209,6 +251,9 @@
     },
     "_treasure_chest": {
       "iconPath": "./images/stardewvalley/Treasure_Chest.png"
+    },
+    "_vinegar": {
+      "iconPath": "./images/stardewvalley/Vinegar.png"
     },
     "_void_chicken": {
       "iconPath": "./images/stardewvalley/Void_Chicken.png"
@@ -222,162 +267,131 @@
     "_warp_totem_mountains": {
       "iconPath": "./images/stardewvalley/Warp_Totem_Mountains.png"
     },
+    "_wedding_ring": {
+      "iconPath": "./images/stardewvalley/Wedding_Ring.png"
+    },
     "_wheel": {
       "iconPath": "./images/stardewvalley/Wheel.png"
     },
     "_white_chicken": {
       "iconPath": "./images/stardewvalley/White_Chicken.png"
-    },
-    "_wtf": {
-      "iconPath": "./images/botas/wtf.png"
     }
   },
   "file": "_strawberry",
   "folder": "_bin_closed",
   "folderExpanded": "_bin_opened",
   "folderNames": {
-    "api": "_empty",
-    "app": "_empty",
-    "assets": "_empty",
-    "bin": "_empty",
-    "build": "_empty",
-    "builds": "_empty",
-    "bundle": "_empty",
-    "config": "_empty",
-    "controllers": "_empty",
-    "db": "_empty",
-    "dist": "_empty",
-    "files": "_wtf",
-    "helpers": "_empty",
-    "images": "_empty",
-    "javascript": "_empty",
-    "lib": "_empty",
-    "log": "_empty",
-    "logs": "_empty",
-    "migrate": "_empty",
-    "models": "_empty",
-    "public": "_empty",
-    "rails": "_empty",
-    "setup": "_empty",
-    "spec": "_empty",
-    "src": "_empty",
-    "stylesheets": "_empty",
-    "test": "_empty",
-    "tests": "_empty",
-    "tmp": "_empty",
-    "tools": "_empty",
-    "vendor": "_empty",
-    "views": "_empty"
+    "api": "_void_chicken",
+    "app": "_squid",
+    "assets": "_prismatic_slime",
+    "bin": "_stone_chest",
+    "build": "_stone_chest",
+    "builds": "_stone_chest",
+    "controllers": "_stardrop",
+    "db": "_dark_bookcase",
+    "images": "_shipping_bin_anim",
+    "javascript": "_coffee",
+    "lib": "_shipping_bin_anim",
+    "models": "_skeleton_anim",
+    "rails": "_treasure_chest",
+    "setup": "_strawberry",
+    "spec": "_white_chicken",
+    "src": "_blue_chicken",
+    "stylesheets": "_brown_chicken",
+    "test": "_golden_chicken",
+    "tests": "_golden_chicken",
+    "views": "_wedding_ring"
   },
   "folderNamesExpanded": {
-    "api": "_empty",
-    "app": "_empty",
-    "assets": "_empty",
-    "bin": "_empty",
-    "build": "_empty",
-    "builds": "_empty",
-    "bundle": "_empty",
-    "config": "_empty",
-    "controllers": "_empty",
-    "db": "_empty",
-    "dist": "_empty",
-    "files": "_wtf",
-    "helpers": "_empty",
-    "images": "_empty",
-    "javascript": "_empty",
-    "lib": "_empty",
-    "log": "_empty",
-    "logs": "_empty",
-    "migrate": "_empty",
-    "models": "_empty",
-    "public": "_empty",
-    "rails": "_empty",
-    "setup": "_empty",
-    "spec": "_empty",
-    "src": "_empty",
-    "stylesheets": "_empty",
-    "test": "_empty",
-    "tests": "_empty",
-    "tmp": "_empty",
-    "tools": "_empty",
-    "vendor": "_empty",
-    "views": "_empty"
+    "api": "_void_chicken",
+    "app": "_squid",
+    "assets": "_prismatic_slime",
+    "bin": "_stone_chest",
+    "build": "_stone_chest",
+    "builds": "_stone_chest",
+    "controllers": "_stardrop",
+    "db": "_dark_bookcase",
+    "images": "_shipping_bin_anim",
+    "javascript": "_coffee",
+    "lib": "_shipping_bin_anim",
+    "models": "_skeleton_anim",
+    "rails": "_treasure_chest",
+    "setup": "_strawberry",
+    "spec": "_white_chicken",
+    "src": "_blue_chicken",
+    "stylesheets": "_brown_chicken",
+    "test": "_golden_chicken",
+    "tests": "_golden_chicken",
+    "views": "_wedding_ring"
   },
   "fileNames": {
-    ".package-lock.json": "_empty",
-    "AUTHORS": "_empty",
-    "AUTHORS.md": "_empty",
-    "AUTHORS.txt": "_empty",
-    "CHANGELOG.md": "_empty",
-    "CHANGELOG.txt": "_empty",
-    "config.ru": "_empty",
-    "CONTRIBUTING": "_empty",
-    "CONTRIBUTING.md": "_empty",
-    "CONTRIBUTING.txt": "_empty",
-    "Gemfile": "_empty",
-    "Gemfile.lock": "_empty",
-    "LICENSE": "_empty",
-    "LICENSE.md": "_empty",
-    "LICENSE.txt": "_empty",
-    "package-lock.json": "_empty",
-    "package-lock.yaml": "_empty",
-    "package-lock.yml": "_empty",
-    "package.json": "_empty",
-    "pnpm-lock.json": "_empty",
-    "pnpm-lock.yaml": "_empty",
-    "pnpm-lock.yml": "_empty",
-    "Rakefile": "_empty",
-    "README.md": "_empty",
-    "README.txt": "_empty",
-    "tsconfig.json": "_empty",
-    "yarn.lock": "_empty"
+    ".env": "_cactus_fruit",
+    ".env.example": "_cactus_fruit",
+    ".env.local": "_cactus_fruit",
+    ".env.production": "_cactus_fruit",
+    ".env.production.sample": "_cactus_fruit",
+    ".env.sample": "_cactus_fruit",
+    ".package-lock.json": "_rusty_key",
+    "config.ru": "_catalogue",
+    "Gemfile": "_qi_gem",
+    "Gemfile.lock": "_qi_gem",
+    "LICENSE": "_stone_owl_random",
+    "LICENSE.md": "_stone_owl_random",
+    "LICENSE.txt": "_stone_owl_random",
+    "package-lock.json": "_rusty_key",
+    "package-lock.yaml": "_rusty_key",
+    "package-lock.yml": "_rusty_key",
+    "package.json": "_star_shards",
+    "pnpm-lock.json": "_rusty_key",
+    "pnpm-lock.yaml": "_rusty_key",
+    "pnpm-lock.yml": "_rusty_key",
+    "Rakefile": "_ruby_node",
+    "README.md": "_lost_book",
+    "README.txt": "_lost_book",
+    "tsconfig.json": "_duck_feather",
+    "yarn.lock": "_rusty_key"
   },
   "fileExtensions": {
-    "config": "_empty",
-    "config.js": "_empty",
-    "config.ts": "_empty",
-    "css": "_empty",
-    "erb": "_empty",
-    "eslintignore": "_empty",
-    "eslintrc": "_empty",
-    "eslintrc.js": "_empty",
-    "eslintrc.json": "_empty",
-    "gif": "_empty",
-    "git": "_empty",
-    "gitattributes": "_empty",
-    "gitignore": "_empty",
-    "html": "_empty",
-    "ico": "_empty",
-    "jpeg": "_empty",
-    "jpg": "_empty",
-    "js": "_empty",
-    "json": "_empty",
-    "jsx": "_empty",
-    "keep": "_empty",
-    "lock": "_empty",
-    "map": "_empty",
-    "md": "_empty",
-    "png": "_empty",
-    "prettierignore": "_empty",
-    "prettierrc": "_empty",
-    "prettierrc.js": "_empty",
-    "prettierrc.json": "_empty",
-    "rb": "_empty",
-    "rspec": "_empty",
-    "ruby-version": "_empty",
-    "scss": "_empty",
-    "sh": "_empty",
-    "svg": "_empty",
-    "test": "_empty",
-    "test.js": "_empty",
-    "test.ts": "_empty",
-    "toml": "_empty",
-    "ts": "_empty",
-    "tsx": "_empty",
-    "ttf": "_empty",
-    "txt": "_empty",
-    "vscodeignore": "_empty",
-    "yml": "_empty",
-    "yml.enc": "_empty"
+    "vue": "_magma_cap",
+    "config": "_rusty_key",
+    "config.js": "_rusty_key",
+    "config.ts": "_rusty_key",
+    "css": "_lucky_bow",
+    "erb": "_ruby_node",
+    "eslintignore": "_blobfish_mask",
+    "eslintrc": "_cowgal_hat",
+    "eslintrc.js": "_cowgal_hat",
+    "eslintrc.json": "_cowgal_hat",
+    "gif": "_stormanimated",
+    "git": "_stone_chest",
+    "gitattributes": "_stone_chest",
+    "gitignore": "_stone_chest",
+    "html": "_secret_note",
+    "ico": "_calendar_flag_anim",
+    "jpeg": "_calendar_flag_anim",
+    "jpg": "_calendar_flag_anim",
+    "js": "_red_mushroom",
+    "json": "_coffee",
+    "jsx": "_red_mushroom",
+    "keep": "_skull_key",
+    "lock": "_rusty_key",
+    "map": "_farm_computer",
+    "md": "_lost_book",
+    "png": "_calendar_flag_anim",
+    "prettierignore": "_blobfish_mask",
+    "prettierrc": "_iridium_bat_anim",
+    "prettierrc.js": "_iridium_bat_anim",
+    "prettierrc.json": "_iridium_bat_anim",
+    "rb": "_ruby",
+    "rspec": "_ruby",
+    "ruby-version": "_ruby",
+    "scss": "_polka_bow",
+    "test": "_vinegar",
+    "test.js": "_red_mushroom",
+    "test.ts": "_purple_mushroom",
+    "ts": "_purple_mushroom",
+    "tsx": "_purple_mushroom",
+    "txt": "_pierre's_missing_stocklist",
+    "vscodeignore": "_deluxe_scarecrow"
   }
 }

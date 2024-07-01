@@ -1,9 +1,13 @@
 {
   "name": "the-botas-icon-theme",
   "displayName": "the botas icon theme",
-  "description": "...",
-  "publisher": "arerorero - botas",
-  "version": "0.0.1",
+  "description": "Hellooo",
+  "publisher": "arerorero",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arerorero/the-botas-icon-theme"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
