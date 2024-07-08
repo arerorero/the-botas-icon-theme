@@ -538,11 +538,11 @@
       "iconPath": "./images/stardewvalley/hats/Witch_Hat.png"
     }
   },
-  "file": "_strawberry",
+  "file": "_mango",
   "folder": "_bin_closed",
   "folderExpanded": "_bin_opened",
   "folderNames": {
-    "api": "_void_chicken",
+    "api": "_giant_qi_fruit",
     "app": "_junimo_hut",
     "assets": "_jelly",
     "bin": "_stone_chest",
@@ -550,22 +550,22 @@
     "builds": "_stone_chest",
     "controllers": "_stardrop",
     "db": "_treasure_chest",
+    "icons": "_grape",
     "images": "_strawberry_seeds",
     "javascript": "_coffee",
     "lib": "",
     "models": "_skeleton_anim",
     "modules": "_mayonnaise",
     "rails": "_treasure_chest",
-    "setup": "_strawberry",
+    "setup": "_coffee_bean",
     "spec": "_haunted_skull_anim",
     "src": "_stone_chest",
+    "style": "_blueberry_seeds",
+    "styles": "_blueberry_seeds",
+    "stylesheets": "_blueberry_seeds",
     "test": "_golden_chicken",
     "tests": "_golden_chicken",
-    "views": "_dinosaur_mayonnaise",
-    "icons": "_grape",
-    "stylesheets": "_blueberry_seeds",
-    "style": "_blueberry_seeds",
-    "styles": "_blueberry_seeds"
+    "views": "_dinosaur_mayonnaise"
   },
   "folderNamesExpanded": {
     "api": "_void_chicken",
@@ -576,6 +576,7 @@
     "builds": "_stone_chest",
     "controllers": "_stardrop",
     "db": "_treasure_chest",
+    "icons": "_grape",
     "images": "_strawberry_seeds",
     "javascript": "_coffee",
     "lib": "",
@@ -585,13 +586,12 @@
     "setup": "_strawberry",
     "spec": "_haunted_skull_anim",
     "src": "_stone_chest",
-    "test": "_golden_chicken",
-    "tests": "_golden_chicken",
-    "views": "_dinosaur_mayonnaise",
-    "icons": "_grape",
-    "stylesheets": "_blueberry_seeds",
     "style": "_blueberry_seeds",
-    "styles": "_blueberry_seeds"
+    "styles": "_blueberry_seeds",
+    "stylesheets": "_blueberry_seeds",
+    "test": "_haunted_skull_anim",
+    "tests": "_haunted_skull_anim",
+    "views": "_dinosaur_mayonnaise"
   },
   "fileNames": {
     ".env": "_stocklist",
@@ -601,6 +601,7 @@
     ".env.production.sample": "_stocklist",
     ".env.sample": "_stocklist",
     ".package-lock.json": "_dwarf_scroll_iii",
+    ".prettier.config.cjs": "_magnifying_glass",
     "config.ru": "_catalogue",
     "Gemfile": "_qi_gem",
     "Gemfile.lock": "_qi_gem",
@@ -618,10 +619,11 @@
     "README.md": "_lost_book",
     "README.txt": "_lost_book",
     "tsconfig.json": "_duck_feather",
-    "yarn.lock": "_rabbit",
-    "yarn-error.log": "_rabbit"
+    "yarn-error.log": "_rabbit",
+    "yarn.lock": "_rabbit"
   },
   "fileExtensions": {
+    "cjs": "_red_mushroom",
     "config": "_rusty_key",
     "config.js": "_rusty_key",
     "config.ts": "_rusty_key",
@@ -654,14 +656,17 @@
     "rb": "_ruby",
     "rspec": "_ruby",
     "ruby-version": "_ruby",
-    "scss": "_polka_bow",
+    "scss": "_ancient_fruit",
     "test": "_vinegar",
-    "test.js": "_red_mushroom",
-    "test.ts": "_purple_mushroom",
+    "test.js": "_skeleton_mask",
+    "test.ts": "_skeleton_mask",
     "ts": "_purple_mushroom",
     "tsx": "_purple_mushroom",
-    "txt": "_pierre's_missing_stocklist",
+    "txt": "_stocklist",
     "vscodeignore": "_deluxe_scarecrow",
-    "vue": "_hops"
+    "vue": "_hops",
+    "yaml": "_dwarf_scroll_iv",
+    "yml": "_dwarf_scroll_iv",
+    "yml.enc": "_dwarf_scroll_iv"
   }
 }

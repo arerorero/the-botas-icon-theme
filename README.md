@@ -8,6 +8,6 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-by @arerorero
+by @arerorero for my love kanzaki julia
 
 This icon theme is under development, currently i'm working in making it cool on ruby on rails and vue.js, further on i'ma expand it to other languages and frameworks, if any of u guys that stumble across this icon theme wanna help me build it just join me on my github @arerorero or send me a friend request on discord [@arerorero](https://github.com/arerorero)
