@@ -8,3 +8,7 @@ jobs:
     steps:
       - name: publish
         run: npm publish
+defaults:
+  run:
+    shell: bash
+    working-directory: ./
