@@ -1,0 +1,10 @@
+on:
+  pull_request:
+    branches:
+    - main
+jobs:
+  install-dependencies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: publish
+        run: npm publish
