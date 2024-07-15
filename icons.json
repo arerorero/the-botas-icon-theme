@@ -594,6 +594,7 @@
     "views": "_dinosaur_mayonnaise"
   },
   "fileNames": {
+    "dockerfile": "_preserves_jar",
     ".env": "_stocklist",
     ".env.example": "_stocklist",
     ".env.local": "_stocklist",
@@ -654,10 +655,12 @@
     "prettierrc.js": "_magnifying_glass",
     "prettierrc.json": "_magnifying_glass",
     "rb": "_ruby",
-    "rspec": "_ruby",
+    "rspec": "_skeleton_mask",
     "ruby-version": "_ruby",
     "scss": "_ancient_fruit",
-    "test": "_vinegar",
+    "spec.js": "_skeleton_mask",
+    "spec.ts": "_skeleton_mask",
+    "test": "_skeleton_mask",
     "test.js": "_skeleton_mask",
     "test.ts": "_skeleton_mask",
     "ts": "_purple_mushroom",
@@ -667,6 +670,7 @@
     "vue": "_hops",
     "yaml": "_dwarf_scroll_iv",
     "yml": "_dwarf_scroll_iv",
-    "yml.enc": "_dwarf_scroll_iv"
+    "yml.enc": "_dwarf_scroll_iv",
+    "svg": "_strawberry"
   }
 }
