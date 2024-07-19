@@ -4,10 +4,10 @@
       "iconPath": "./images/stardewvalley/seeds/Acorn.png"
     },
     "_ancient_fruit": {
-      "iconPath": "./images/stardewvalley/fruits/Ancient_Fruit.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Ancient_Fruit.png"
     },
     "_apple": {
-      "iconPath": "./images/stardewvalley/fruits/Apple.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Apple.png"
     },
     "_aquamarine": {
       "iconPath": "./images/stardewvalley/stones/Aquamarine.png"
@@ -49,16 +49,19 @@
       "iconPath": "./images/stardewvalley/flowers/Blue_Jazz.png"
     },
     "_blueberry": {
-      "iconPath": "./images/stardewvalley/fruits/Blueberry.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Blueberry.png"
     },
     "_blueberry_seeds": {
       "iconPath": "./images/stardewvalley/seeds/Blueberry_Seeds.png"
+    },
+    "_blueberry_tart": {
+      "iconPath": "./images/stardewvalley/food/fruits/Blueberry_Tart.png"
     },
     "_brown_chicken": {
       "iconPath": "./images/stardewvalley/creatures/good/Brown_Chicken.png"
     },
     "_cactus_fruit": {
-      "iconPath": "./images/stardewvalley/fruits/Cactus_Fruit.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Cactus_Fruit.png"
     },
     "_calendar_flag_anim": {
       "iconPath": "./images/stardewvalley/furniture/Calendar_Flag_Anim.gif"
@@ -122,6 +125,9 @@
     },
     "_dark_bookcase": {
       "iconPath": "./images/stardewvalley/furniture/Dark_Bookcase.png"
+    },
+    "_default_icon": {
+      "iconPath": "./images/stardewvalley/creatures/default_icon.gif"
     },
     "_deluxe_scarecrow": {
       "iconPath": "./images/stardewvalley/furniture/Deluxe_Scarecrow.png"
@@ -198,6 +204,9 @@
     "_frozen_tear": {
       "iconPath": "./images/stardewvalley/stones/Frozen_Tear.png"
     },
+    "_fruit_salad": {
+      "iconPath": "./images/stardewvalley/food/fruits/Fruit_Salad.png"
+    },
     "_galaxy_soul": {
       "iconPath": "./images/stardewvalley/misc/Galaxy_Soul.png"
     },
@@ -217,7 +226,7 @@
       "iconPath": "./images/stardewvalley/vegetables/Giant_Pumpkin.png"
     },
     "_giant_qi_fruit": {
-      "iconPath": "./images/stardewvalley/fruits/Giant_Qi_Fruit.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Giant_Qi_Fruit.png"
     },
     "_glacierfish": {
       "iconPath": "./images/stardewvalley/fish/actually_fish/Glacierfish.png"
@@ -238,7 +247,7 @@
       "iconPath": "./images/stardewvalley/misc/writing/Golden_Relic.png"
     },
     "_grape": {
-      "iconPath": "./images/stardewvalley/fruits/Grape.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Grape.png"
     },
     "_haunted_skull_anim": {
       "iconPath": "./images/stardewvalley/creatures/bad/Haunted_Skull_Anim.gif"
@@ -247,7 +256,7 @@
       "iconPath": "./images/stardewvalley/vegetables/Hops.png"
     },
     "_hot_pepper": {
-      "iconPath": "./images/stardewvalley/fruits/Hot_Pepper.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Hot_Pepper.png"
     },
     "_immunity_band": {
       "iconPath": "./images/stardewvalley/misc/Immunity_Band.png"
@@ -316,7 +325,7 @@
       "iconPath": "./images/stardewvalley/food/drinks/Mead.png"
     },
     "_melon": {
-      "iconPath": "./images/stardewvalley/fruits/Melon.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Melon.png"
     },
     "_midnight_carp": {
       "iconPath": "./images/stardewvalley/fish/actually_fish/Midnight_Carp.png"
@@ -343,7 +352,7 @@
       "iconPath": "./images/stardewvalley/food/Pickles.png"
     },
     "_pineapple": {
-      "iconPath": "./images/stardewvalley/fruits/Pineapple.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Pineapple.png"
     },
     "_polka_bow": {
       "iconPath": "./images/stardewvalley/hats/Polka_Bow.png"
@@ -439,10 +448,10 @@
       "iconPath": "./images/stardewvalley/stones/Star_Shards.png"
     },
     "_stardrop": {
-      "iconPath": "./images/stardewvalley/fruits/Stardrop.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Stardrop.png"
     },
     "_starfruit": {
-      "iconPath": "./images/stardewvalley/fruits/Starfruit.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Starfruit.png"
     },
     "_statusfestival": {
       "iconPath": "./images/stardewvalley/furniture/paintings/StatusFestival.png"
@@ -475,7 +484,7 @@
       "iconPath": "./images/stardewvalley/misc/sla/StormAnimated.gif"
     },
     "_strawberry": {
-      "iconPath": "./images/stardewvalley/fruits/Strawberry.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Strawberry.png"
     },
     "_strawberry_seeds": {
       "iconPath": "./images/stardewvalley/seeds/Strawberry_Seeds.png"
@@ -493,7 +502,7 @@
       "iconPath": "./images/stardewvalley/fish/Super_Cucumber.png"
     },
     "_tomato": {
-      "iconPath": "./images/stardewvalley/fruits/Tomato.png"
+      "iconPath": "./images/stardewvalley/food/fruits/Tomato.png"
     },
     "_top_hat": {
       "iconPath": "./images/stardewvalley/hats/Top_Hat.png"
@@ -503,6 +512,9 @@
     },
     "_treasure_chest": {
       "iconPath": "./images/stardewvalley/misc/chest/Treasure_Chest.png"
+    },
+    "_triple_shot_espresso": {
+      "iconPath": "./images/stardewvalley/food/drinks/Triple_Shot_Espresso.png"
     },
     "_vinegar": {
       "iconPath": "./images/stardewvalley/food/drinks/Vinegar.png"
@@ -538,7 +550,7 @@
       "iconPath": "./images/stardewvalley/hats/Witch_Hat.png"
     }
   },
-  "file": "_mango",
+  "file": "_default_icon",
   "folder": "_bin_closed",
   "folderExpanded": "_bin_opened",
   "folderNames": {
@@ -638,6 +650,8 @@
     "git": "_stocklist",
     "gitattributes": "_stocklist",
     "gitignore": "_secret_note",
+    "handler.js": "_crab",
+    "handler.ts": "_crab",
     "html": "_dwarf_gadget",
     "ico": "_strawberry",
     "jpeg": "_strawberry",
@@ -649,6 +663,8 @@
     "lock": "_rusty_key",
     "map": "_farm_computer",
     "md": "_lost_book",
+    "model.js": "_prismatic_slime",
+    "model.ts": "_prismatic_slime",
     "png": "_strawberry",
     "prettierignore": "_magnifying_glass",
     "prettierrc": "_magnifying_glass",
@@ -658,8 +674,11 @@
     "rspec": "_skeleton_mask",
     "ruby-version": "_ruby",
     "scss": "_ancient_fruit",
+    "service.js": "_magma_cap",
+    "service.ts": "_magma_cap",
     "spec.js": "_skeleton_mask",
     "spec.ts": "_skeleton_mask",
+    "svg": "_strawberry",
     "test": "_skeleton_mask",
     "test.js": "_skeleton_mask",
     "test.ts": "_skeleton_mask",
