@@ -513,6 +513,9 @@
     "_treasure_chest": {
       "iconPath": "./images/stardewvalley/misc/chest/Treasure_Chest.png"
     },
+    "_triple_shot_espresso": {
+      "iconPath": "./images/stardewvalley/food/drinks/Triple_Shot_Espresso.png"
+    },
     "_vinegar": {
       "iconPath": "./images/stardewvalley/food/drinks/Vinegar.png"
     },
@@ -603,6 +606,7 @@
     "views": "_dinosaur_mayonnaise"
   },
   "fileNames": {
+    "dockerfile": "_preserves_jar",
     ".env": "_stocklist",
     ".env.example": "_stocklist",
     ".env.local": "_stocklist",
@@ -646,6 +650,8 @@
     "git": "_stocklist",
     "gitattributes": "_stocklist",
     "gitignore": "_secret_note",
+    "handler.js": "_crab",
+    "handler.ts": "_crab",
     "html": "_dwarf_gadget",
     "ico": "_strawberry",
     "jpeg": "_strawberry",
@@ -657,8 +663,9 @@
     "lock": "_rusty_key",
     "map": "_farm_computer",
     "md": "_lost_book",
+    "model.js": "_prismatic_slime",
+    "model.ts": "_prismatic_slime",
     "png": "_strawberry",
-    "svg": "_strawberry",
     "prettierignore": "_magnifying_glass",
     "prettierrc": "_magnifying_glass",
     "prettierrc.js": "_magnifying_glass",
@@ -667,8 +674,11 @@
     "rspec": "_skeleton_mask",
     "ruby-version": "_ruby",
     "scss": "_ancient_fruit",
+    "service.js": "_magma_cap",
+    "service.ts": "_magma_cap",
     "spec.js": "_skeleton_mask",
     "spec.ts": "_skeleton_mask",
+    "svg": "_strawberry",
     "test": "_skeleton_mask",
     "test.js": "_skeleton_mask",
     "test.ts": "_skeleton_mask",
@@ -679,6 +689,7 @@
     "vue": "_hops",
     "yaml": "_dwarf_scroll_iv",
     "yml": "_dwarf_scroll_iv",
-    "yml.enc": "_dwarf_scroll_iv"
+    "yml.enc": "_dwarf_scroll_iv",
+    "svg": "_strawberry"
   }
 }
