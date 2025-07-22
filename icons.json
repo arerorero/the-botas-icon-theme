@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "_11059133": {
+      "iconPath": "./images/botas/11059133.jpg"
+    },
     "_acorn": {
       "iconPath": "./images/stardewvalley/seeds/Acorn.png"
     },
@@ -360,6 +363,9 @@
     "_potato": {
       "iconPath": "./images/stardewvalley/vegetables/Potato.png"
     },
+    "_potato_stage_6": {
+      "iconPath": "./images/stardewvalley/vegetables/Potato_Stage_6.png"
+    },
     "_preserves_jar": {
       "iconPath": "./images/stardewvalley/furniture/Preserves_Jar.png"
     },
@@ -606,7 +612,6 @@
     "views": "_dinosaur_mayonnaise"
   },
   "fileNames": {
-    "dockerfile": "_preserves_jar",
     ".env": "_stocklist",
     ".env.example": "_stocklist",
     ".env.local": "_stocklist",
@@ -616,6 +621,7 @@
     ".package-lock.json": "_dwarf_scroll_iii",
     ".prettier.config.cjs": "_magnifying_glass",
     "config.ru": "_catalogue",
+    "dockerfile": "_preserves_jar",
     "Gemfile": "_qi_gem",
     "Gemfile.lock": "_qi_gem",
     "LICENSE": "_stone_owl_random",
@@ -641,6 +647,7 @@
     "config.js": "_rusty_key",
     "config.ts": "_rusty_key",
     "css": "_blueberry",
+    "csv": "_potato_stage_6",
     "erb": "_ruby_node",
     "eslintignore": "_immunity_band",
     "eslintrc": "_wedding_ring",
@@ -670,6 +677,7 @@
     "prettierrc": "_magnifying_glass",
     "prettierrc.js": "_magnifying_glass",
     "prettierrc.json": "_magnifying_glass",
+    "py": "_glacierfish",
     "rb": "_ruby",
     "rspec": "_skeleton_mask",
     "ruby-version": "_ruby",
@@ -689,7 +697,6 @@
     "vue": "_hops",
     "yaml": "_dwarf_scroll_iv",
     "yml": "_dwarf_scroll_iv",
-    "yml.enc": "_dwarf_scroll_iv",
-    "svg": "_strawberry"
+    "yml.enc": "_dwarf_scroll_iv"
   }
 }

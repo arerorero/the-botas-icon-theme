@@ -3,7 +3,7 @@
   "displayName": "the botas icon theme",
   "description": "Hellooo",
   "publisher": "arerorero",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "icon": "icon.png",
   "scripts": {
     "build": "node config.js && npm run format",
